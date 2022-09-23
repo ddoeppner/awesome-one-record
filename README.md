@@ -55,6 +55,7 @@
 
 * [ONE Record Server Java Sandbox](https://github.com/IATA-Cargo/one-record-server-java) JAVA implementation of the ONE Record API by IATA.
 * [ONE Record Server (Go + GCP)](https://github.com/chi-deutschland/one-record-server) Go implementation of the ONE Record API. Deployable to the Google Cloud Platform.
+* [ONE Record Server Java](https://github.com/ddoeppner/one-record-server-java) Fork of IATA ONE Record Server Java Sandbox with some improvements, updated dependencies and additional features, e.g. Docker configuration
 
 
 ### Cloud Services
