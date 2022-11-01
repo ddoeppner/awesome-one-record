@@ -19,6 +19,8 @@
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
 * [IATA (2021) Bridging the Internet of Logistics with the ONE Record API](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_bridging_the_internet-of_logistics_with_the_one_record_api.pdf)
 
+#### Blog Posts
+* [Vedia](https://www.vedia.fi/blog/one-record-gateway-to-the-internet-of-logistics/) One Record – gateway to the internet of logistics
 
 #### Videos
 * [InTouch TV (2020) ONE Record one step away from fully digital cargo](https://www.youtube.com/watch?v=JPzkqsD3HQo)
@@ -62,7 +64,6 @@
 *Software products that provide ONE Record services and are operated and maintained by 3rd parties in the cloud.*
 
 * [Nexshore](https://nexshore.com/) SaaS solution for Air Cargo Tracking based on ONE Record
-* [Vedia](https://www.vedia.fi/blog/one-record-gateway-to-the-internet-of-logistics/) One Record – gateway to the internet of logistics
 
 # Code of Conduct
 see [Code of Conduct](CODE_OF_CONDUCT.md)
