@@ -62,6 +62,7 @@
 *Software products that provide ONE Record services and are operated and maintained by 3rd parties in the cloud.*
 
 * [Nexshore](https://nexshore.com/) SaaS solution for Air Cargo Tracking based on ONE Record
+* [Vedia](https://www.vedia.fi/blog/one-record-gateway-to-the-internet-of-logistics/) One Record – gateway to the internet of logistics
 
 # Code of Conduct
 see [Code of Conduct](CODE_OF_CONDUCT.md)
