@@ -52,6 +52,7 @@
 
 * [Cargo-XML XFWB / XFZB to ONE Record Converter](https://github.com/riege/one-record-converter) Java library that supports the conversion from xFWB / xFZB to ONE Record JSON data format.
 * [one-record-ontologymodel](https://github.com/riege/one-record-ontologymodel) Java POJO classes for the ONE Record data model
+* [ONE Record with Python](https://pypi.org/project/onerecord/) Python library for interaction with ONE Record APIs
 
 #### Reference Implementations
 *Software bundles that implement all or parts of the ONE Record specification (data model, API, security).*
