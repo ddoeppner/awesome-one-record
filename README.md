@@ -32,8 +32,9 @@
 * [IATA ONE Record Hackathon June 2019](https://www.iata.org/contentassets/c6b62a2a403745ddab9b593b3a664b08/madrid-hackathon-winners.pdf) Corporate Booking Tools using Airlines (NDC) APIs and Cargo processes using IATA’s One Record API. June 2019 in Madrid
 * [IATA ONE Record Hackathon September 2020](https://onerecord.devpost.com/project-gallery). 11-13 September 2020 (online only)
 * [IATA ONE Record Hackathon September 2021](https://onerecord2021.devpost.com/). 10-12 September 2021 (online only)
-* [IATA ONE Record Hackathon May 2022](https://iata-dcsa-ams.devpost.com/) Multimodal Hackathon leveragng ONE Record and Maritime APIs. 20-22 May 2022 in Amsterdam.
+* [IATA ONE Record Hackathon May 2022](https://iata-dcsa-ams.devpost.com/). 20-22 May 2022 in Amsterdam.
 * [IATA ONE Record Hackathon September 2022](https://onerecord-yyz.devpost.com/). 21-23 October 2022 in Toronto
+* [IATA ONE Record Hackathon June 2023](https://onerecord-fra.devpost.com/). 23-25 June 2023 in Seeheim
 
 
 ### Good Practices
