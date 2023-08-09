@@ -19,6 +19,7 @@
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
 * [IATA (2021) Bridging the Internet of Logistics with the ONE Record API](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_bridging_the_internet-of_logistics_with_the_one_record_api.pdf)
 
+
 #### Blog Posts
 * [Vedia](https://www.vedia.fi/blog/one-record-gateway-to-the-internet-of-logistics/) One Record – gateway to the internet of logistics
 
@@ -53,6 +54,8 @@
 * [Cargo-XML XFWB / XFZB to ONE Record Converter](https://github.com/riege/one-record-converter) Java library that supports the conversion from xFWB / xFZB to ONE Record JSON data format.
 * [one-record-ontologymodel](https://github.com/riege/one-record-ontologymodel) Java POJO classes for the ONE Record data model
 * [ONE Record with Python](https://pypi.org/project/onerecord/) Python library for interaction with ONE Record APIs
+* [NE:ONE Play - ONE Record Editor](https://github.com/erikgoldenstein/neoneplay) Interactive web app to view and edit ONE Record data objects based on React Flow
+
 
 #### Reference Implementations
 *Software bundles that implement all or parts of the ONE Record specification (data model, API, security).*
