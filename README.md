@@ -13,14 +13,15 @@
 *ONE Record is a standard for data sharing and creates a single record view of the shipment. This standard defines a common data model for the data that is shared via standardized and secured web API.   
 (Source: [IATA - ONE Record](https://www.iata.org/one-record/))*
 
-### Community Ressurces
-
 ### ONE Record Specifications
 
 * [ONE Record Specification Repository](https://github.com/IATA-Cargo/ONE-Record)
 * [ONE Record API Specification](https://iata-cargo.github.io/ONE-Record/)
 * [ONE Record Data Model](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/ontology)
 * [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
+
+
+### Community Ressurces
 
 #### Whitepapers
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
