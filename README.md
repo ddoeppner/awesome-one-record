@@ -15,6 +15,13 @@
 
 ### Community Ressurces
 
+### ONE Record Specifications
+
+* [ONE Record Specification Repository](https://github.com/IATA-Cargo/ONE-Record)
+* [ONE Record API Specification](https://iata-cargo.github.io/ONE-Record/)
+* [ONE Record Data Model](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/ontology)
+* [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
+
 #### Whitepapers
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
 * [IATA (2021) Bridging the Internet of Logistics with the ONE Record API](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_bridging_the_internet-of_logistics_with_the_one_record_api.pdf)
@@ -42,6 +49,8 @@
 ### Good Practices
 *This section lists resources that describe what an implementation of a use case in ONE Record might look like in what is called good practice.*
 
+* [Good Practice: ShipmentTracking](https://github.com/digital-cargo/good-practice-shipment-tracking)
+* [Good Practice: ShipmentRecord](https://github.com/digital-cargo/good-practice-shipment-record)
 * [Providing CO2 Transparency in ONE Record](https://github.com/DrPhilippBillion/Co2-Transparency-in-ONE-Record)
 * [Checks in ONE Record](https://github.com/DrPhilippBillion/Checks-in-ONE-Record)
 * [Digital Accompanying Documents](https://github.com/DrPhilippBillion/Digital-Accompanying-Documents-in-ONE-Record)
