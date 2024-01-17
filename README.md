@@ -36,6 +36,7 @@
 * [IATA ONE Record Hackathon May 2022](https://iata-dcsa-ams.devpost.com/). 20-22 May 2022 in Amsterdam.
 * [IATA ONE Record Hackathon September 2022](https://onerecord-yyz.devpost.com/). 21-23 October 2022 in Toronto
 * [IATA ONE Record Hackathon June 2023](https://onerecord-fra.devpost.com/). 23-25 June 2023 in Seeheim
+* [IATA ONE Record Hackathon November 2023](https://onerecord-doh.devpost.com/). 24-26 November 2023 in Doha
 
 
 ### Good Practices
