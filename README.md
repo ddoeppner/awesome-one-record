@@ -8,6 +8,7 @@
 * [Good Practices](#good-practices)
 * [Software Packages](#software-packages)
 * [Cloud Services](#cloud-services)
+* [Professional Services](#professional-services)
 
 ### About ONE Record
 *ONE Record is a standard for data sharing and creates a single record view of the shipment. This standard defines a common data model for the data that is shared via standardized and secured web API.   
@@ -21,7 +22,7 @@
 * [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
 
 
-### Community Ressurces
+### Community Resources
 
 #### Whitepapers
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
@@ -35,6 +36,7 @@
 * [InTouch TV (2020) ONE Record one step away from fully digital cargo](https://www.youtube.com/watch?v=JPzkqsD3HQo)
 * [InTouch TV (2020) The ONE Record API An overview of the key features](https://www.youtube.com/watch?v=8EMtdKyNuog)
 * [IATAtv (2020) IATA ONE Record Hackathon 2020](https://www.youtube.com/watch?v=XOxeL1WXOiM)
+* [IAM Video Channel (2024) - IAM Session: Let's Move Some Data! Transforming Moving with Next Generation Data Exchange](https://www.youtube.com/watch?v=Iap9QHRyS6w)
 
 
 #### Hackathons
@@ -45,6 +47,7 @@
 * [IATA ONE Record Hackathon September 2022](https://onerecord-yyz.devpost.com/). 21-23 October 2022 in Toronto
 * [IATA ONE Record Hackathon June 2023](https://onerecord-fra.devpost.com/). 23-25 June 2023 in Seeheim
 * [IATA ONE Record Hackathon November 2023](https://onerecord-doh.devpost.com/). 24-26 November 2023 in Doha
+* [IATA ONE Record Hackathon March 2024](https://onerecord-szx.devpost.com/). 15-17 March 2024 in Shenzhen
 
 
 ### Good Practices
@@ -62,10 +65,11 @@
 
 #### Tools
 
-* [Cargo-XML XFWB / XFZB to ONE Record Converter](https://github.com/riege/one-record-converter) Java library that supports the conversion from xFWB / xFZB to ONE Record JSON data format.
+* [Cargo-XML XFWB / XFZB to ONE Record Converter](https://github.com/riege/one-record-converter) Java library that supports the conversion from xFWB / xFZB to ONE Record JSON data format
 * [one-record-ontologymodel](https://github.com/riege/one-record-ontologymodel) Java POJO classes for the ONE Record data model
 * [ONE Record with Python](https://pypi.org/project/onerecord/) Python library for interaction with ONE Record APIs
 * [NE:ONE Play - ONE Record Editor](https://github.com/erikgoldenstein/neoneplay) Interactive web app to view and edit ONE Record data objects based on React Flow
+* [SPARQLing ONE Record Middleware Server](https://github.com/NiclasScheiber/sparqling-one-record) Python-based web API to execute SPARQL queries on ONE Record data using the ONE Record API)
 
 
 #### Reference Implementations
@@ -81,6 +85,13 @@
 *Software products that provide ONE Record services and are operated and maintained by 3rd parties in the cloud.*
 
 * [Nexshore](https://nexshore.com/) SaaS solution for Air Cargo Tracking based on ONE Record
+
+
+### Professional Services
+*Commercial service offerings to support organizations in the technical and organizational implementation of ONE Record*.
+
+* [ISO Software Systeme GmbH (ISO Gruppe)](https://www.one-record-hub.com/) 
+
 
 # Code of Conduct
 see [Code of Conduct](CODE_OF_CONDUCT.md)
