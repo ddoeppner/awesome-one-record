@@ -48,6 +48,7 @@
 * [IATA ONE Record Hackathon June 2023](https://onerecord-fra.devpost.com/). 23-25 June 2023 in Seeheim
 * [IATA ONE Record Hackathon November 2023](https://onerecord-doh.devpost.com/). 24-26 November 2023 in Doha
 * [IATA ONE Record Hackathon March 2024](https://onerecord-szx.devpost.com/). 15-17 March 2024 in Shenzhen
+* [IATA ONE Record Hackathon October 2024](https://onerecord-ist.devpost.com/). 5-6 October 2024 in Istanbul
 
 
 ### Good Practices
