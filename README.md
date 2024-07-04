@@ -56,6 +56,7 @@
 
 * [Good Practice: ShipmentTracking](https://github.com/digital-cargo/good-practice-shipment-tracking)
 * [Good Practice: ShipmentRecord](https://github.com/digital-cargo/good-practice-shipment-record)
+* [Good Practice: TruckPreAdvice](https://github.com/digital-cargo/good-practice-truck-preadvice)
 * [Providing CO2 Transparency in ONE Record](https://github.com/DrPhilippBillion/Co2-Transparency-in-ONE-Record)
 * [Checks in ONE Record](https://github.com/DrPhilippBillion/Checks-in-ONE-Record)
 * [Digital Accompanying Documents](https://github.com/DrPhilippBillion/Digital-Accompanying-Documents-in-ONE-Record)
