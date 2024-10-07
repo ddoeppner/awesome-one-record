@@ -18,7 +18,7 @@
 
 * [ONE Record Specification Repository](https://github.com/IATA-Cargo/ONE-Record)
 * [ONE Record API Specification](https://iata-cargo.github.io/ONE-Record/)
-* [ONE Record Data Model](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/ontology)
+* [ONE Record Data Model](https://iata-cargo.github.io/ONE-Record/stable/Data-Model/)
 * [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
 
 
