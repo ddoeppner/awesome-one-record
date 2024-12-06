@@ -24,6 +24,9 @@
 
 ### Community Resources
 
+#### Tutorials
+* [First Steps with NE:ONE Server](https://github.com/ddoeppner/one-record-server-first-steps) A step-by-step guide to setting up a local ONE Record development environment with NE:ONE Server, GraphDB, Keycloak, NE:ONE View, and NE:ONE Play, as well as creating and updating your first LogisticsObjects.
+
 #### Whitepapers
 * [IATA (2020) Catch the Wave of Linked Data with ONE Record](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_catch_the_wave_of_linked_data_with_one_record.pdf)
 * [IATA (2021) Bridging the Internet of Logistics with the ONE Record API](https://www.iata.org/contentassets/a1b5532e38bf4d6284c4bf4760646d4e/one_record_bridging_the_internet-of_logistics_with_the_one_record_api.pdf)
@@ -49,6 +52,7 @@
 * [IATA ONE Record Hackathon November 2023](https://onerecord-doh.devpost.com/). 24-26 November 2023 in Doha
 * [IATA ONE Record Hackathon March 2024](https://onerecord-szx.devpost.com/). 15-17 March 2024 in Shenzhen
 * [IATA ONE Record Hackathon October 2024](https://onerecord-ist.devpost.com/). 5-6 October 2024 in Istanbul
+* [IATA ONE Record Hackathon February 2025](https://onerecord-dub.devpost.com/). 24-25 February 2025 in Dublin
 
 
 ### Good Practices
@@ -72,6 +76,7 @@
 * [ONE Record with Python](https://pypi.org/project/onerecord/) Python library for interaction with ONE Record APIs
 * [NE:ONE Play - ONE Record Editor](https://github.com/erikgoldenstein/neoneplay) Interactive web app to view and edit ONE Record data objects based on React Flow
 * [SPARQLing ONE Record Middleware Server](https://github.com/NiclasScheiber/sparqling-one-record) Python-based web API to execute SPARQL queries on ONE Record data using the ONE Record API)
+* [ONE Record Ontology Visualizer](https://iata-cargo.github.io/ontology_visualizer/) Interactive web app to view and explore the ONE Record Data Model Ontology.
 
 
 #### Reference Implementations
