@@ -20,6 +20,12 @@
 * [ONE Record API Specification](https://iata-cargo.github.io/ONE-Record/)
 * [ONE Record Data Model](https://iata-cargo.github.io/ONE-Record/stable/Data-Model/)
 * [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
+* [ONE Record Code Lists practical guidance](https://iata-cargo.github.io/ONE-Record/development/Data-Model/code-lists/)
+
+#### ONE Record Ontology Specification
+
+- [Ontology Specification Daft (cargo)](https://onerecord.iata.org/ns/cargo)
+- [Ontology Specification Daft (code lists)](https://onerecord.iata.org/ns/code-lists)
 
 
 ### Community Resources
