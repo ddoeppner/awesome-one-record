@@ -20,6 +20,12 @@
 * [ONE Record API Specification](https://iata-cargo.github.io/ONE-Record/)
 * [ONE Record Data Model](https://iata-cargo.github.io/ONE-Record/stable/Data-Model/)
 * [ONE Record Data Orchestration](https://github.com/IATA-Cargo/ONE-Record/tree/master/working_draft/Data-Orchestration)
+* [ONE Record Code Lists practical guidance](https://iata-cargo.github.io/ONE-Record/development/Data-Model/code-lists/)
+
+#### ONE Record Ontology Specification
+
+- [Ontology Specification Draft (cargo)](https://onerecord.iata.org/ns/cargo)
+- [Ontology Specification Draft (code lists)](https://onerecord.iata.org/ns/code-lists)
 
 
 ### Community Resources
@@ -85,7 +91,6 @@
 * [NE:ONE - opeN sourcE: ONE record server software](https://git.openlogisticsfoundation.org/digital-air-cargo/ne-one) Open Source ONE Record Server implementation by [Digital Testbed Air Cargo (DTAC)](https://www.digital-testbed-air-cargo.com)
 * [ONE Record Server Java Sandbox](https://github.com/IATA-Cargo/one-record-server-java) JAVA implementation of the ONE Record API by IATA.
 * [ONE Record Server (Go + GCP)](https://github.com/chi-deutschland/one-record-server) Go implementation of the ONE Record API. Deployable to the Google Cloud Platform.
-* [ONE Record Server Java](https://github.com/ddoeppner/one-record-server-java) Fork of IATA ONE Record Server Java Sandbox with some improvements, updated dependencies and additional features, e.g. Docker configuration
 
 
 ### Cloud Services
