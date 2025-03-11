@@ -24,8 +24,8 @@
 
 #### ONE Record Ontology Specification
 
-- [Ontology Specification Daft (cargo)](https://onerecord.iata.org/ns/cargo)
-- [Ontology Specification Daft (code lists)](https://onerecord.iata.org/ns/code-lists)
+- [Ontology Specification Draft (cargo)](https://onerecord.iata.org/ns/cargo)
+- [Ontology Specification Draft (code lists)](https://onerecord.iata.org/ns/code-lists)
 
 
 ### Community Resources
